@@ -1,0 +1,614 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Malibu Live Stream: All the Latest News, Weather, Events, Traffic, Talk, Chat, Ocean</title>
+	
+	<link rel="stylesheet" href="/static/css/style.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div class="row">
+		<div class="col-md-12 col-lg-4 left-container">
+		<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-interval="45000">
+			<div class="carousel-inner">
+				<div class="carousel-item active">
+				<div class="container">
+				<h3><i>Traffic Center: Malibu</i></h3>
+				<div class="left-box ml-3 mr-3">
+					<iframe class="w-100" src="https://www.sigalert.com/map.asp?lat=34.08402&amp;lon=-118.52828&amp;z=2"  height="300" frameborder="0" style="border:0;" allowfullscreen></iframe>
+				</div>
+				<div class="wrapper">
+				<div class="boxesss">
+					 <marquee behavior="scroll" direction = "up" height="440" scrolldelay="4" scrollamount="4">
+						<div class="box-111">
+							<table class="table">
+								 <col span="1" class="wide">
+								<tr class="trs">
+									<th class="ths">Title  <p style="text-align: right!important; margin-top: -45px">:</p></th>
+									<td class="tds">Malibu, CA - Alert Center - Traffic Advisories</td>
+								</tr>
+								<tr class="trs">
+									<th class="ths">Date <p style="text-align: right!important; margin-top: -45px;">:</p></th>
+									<td class="tds">Mon, 04 Nov 2019 21:43:32 -0800</td>
+								</tr>
+								<tr class="trs">
+									<th class="ths">Description &nbsp <p style="text-align: right!important; margin-top: -45px;">:</p></th>
+									<td class="tds">Malibu, CA - Get the latest alerts</td>
+								</tr>
+							</table>
+						</div>
+						<div class="box-222">
+							<table class="table">
+								<col span="1" class="wide">
+								<tr class="trs">
+									<th class="ths">Title <p style="text-align: right!important; margin-top: -45px;">:</p></th>
+									<td class="tds">PCH both westbound lanes blocked near Rambla Vista - traffic collision #malibu</td>
+								</tr>
+								<tr class="trs">
+									<th class="ths">Date <p style="text-align: right!important; margin-top: -45px;">:</p></th>
+									<td class="tds">Mon, 04 Nov 2019 15:26:34 -0800</td>
+								</tr>
+								<tr class="trs">
+									<th class="ths">Description<p style="text-align: right!important; margin-top: -45px;">:</p></th>
+									<td class="tds">Fire and Sheriff&#39;s Depts are at the scene of a traffic collision on PCH, near Rambla Vista. Both westbound lanes are temporarily blocked. Expect delays.</td>
+								</tr>
+							</table>
+						</div>	
+						<div class="box-333">
+							<table class="table">
+								 <col span="1" class="wide">
+								<tr class="trs">
+									<th class="ths">Title  <p style="text-align: right!important; margin-top: -45px">:</p></th>
+									<td class="tds">PCH northbound lane closures, Winding Way to Kanan, Tue, Nov 5, 8AM-4PM #malibu</td>
+								</tr>
+								<tr class="trs">
+									<th class="ths">Date <p style="text-align: right!important; margin-top: -45px;">:</p></th>
+									<td class="tds">Mon, 04 Nov 2019 12:16:58 -0800</td>
+								</tr>
+								<tr class="trs">
+									<th class="ths">Description &nbsp <p style="text-align: right!important; margin-top: -45px;">:</p></th>
+									<td class="tds">Caltrans will alternate closing the PCH northbound #1 and #2 lanes between Winding Way &amp; Kanan Dume Rd, along with the adjacent northbound left turn lane onto Sea Lion Dr, on Tue, Nov 5, between 8AM-4PM. One northbound lane will be open at all times.</td>
+								</tr>
+							</table>
+						</div>
+						<div class="box-444">
+							<table class="table">
+								<col span="1" class="wide">
+								<tr class="trs">
+									<th class="ths">Title <p style="text-align: right!important; margin-top: -45px;">:</p></th>
+									<td class="tds">Malibu, CA - Alert Center - Traffic Advisories</td>
+								</tr>
+								<tr class="trs">
+									<th class="ths">Date <p style="text-align: right!important; margin-top: -45px;">:</p></th>
+									<td class="tds">Mon, 04 Nov 2019 21:43:32 -0800</td>
+								</tr>
+								<tr class="trs">
+									<th class="ths">Description<p style="text-align: right!important; margin-top: -45px;">:</p></th>
+									<td class="tds">Malibu, CA - Get the latest alerts</td>
+								</tr>
+							</table>
+						</div>	
+						</marquee>
+					</div>
+				</div><!--End of wrapper-->
+			</div>
+				</div>
+				<div class="carousel-item">
+				<div class="container">
+				<h3><i>Surf Center: Malibu</i></h3>
+				<div class="left-box ml-3 mr-3">
+					<iframe width="100%" height="300" src="https://embed.windy.com/embed2.html?lat=33.669&lon=-118.125&zoom=8&level=surface&overlay=waves&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=33.669&detailLon=-118.123&metricWind=mph&metricTemp=%C2%B0F&radarRange=-1" frameborder="0"></iframe>
+				</div>
+				<div class="wrapper">
+					<div class="row ml-1 mr-1">
+						<div class="col">
+							<img class="img-water-temp" src="/static/images/water_temp.png">
+							<span class="parameter-value">64.0<sup class="sup-text"> * F</sup></span>
+						</div>
+						<div class="col">
+								<img class="img-air-temp" src="/static/images/air_temp.png">
+								<span class="parameter-value">61.0<sup class="sup-text"> * F</sup></span>
+						</div>
+						<div class="w-100"></div>
+						<div class="col">
+								<img class="img-barometric" src="/static/images/barometric_pressure.png">
+								<span class="parameter-value">1015.5<sup class="sup-text"> mb</sup></span>
+						</div>
+						<div class="w-100"></div>
+						<div class="col">
+							<img class="img-gusting" src="/static/images/gusting_to.png">
+							<span class="parameter-value">6.41
+								<sup class="sup-text">kts from  NE
+								</sup>
+							</span>	
+						</div>
+						<div class="col">
+							<img class="img-winds" src="/static/images/winds.png">
+							<span class="parameter-value">5.05<sup class="sup-text"> kts from  NE</sup></span>
+						</div>
+					</div> <!--End of row-->
+
+					<table class="mt-2 table">
+						<thead>
+							<tr>
+								<th scope="col">TIME</th>
+								<th scope="col">TIDE</th>
+								<th scope="col">HEIGHT</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+						      
+						      <td>03:17</td>
+						      <td>6.012</td>
+						      <td>H</td>
+						    </tr>
+						    <tr>
+						      
+						       <td>06:53</td>
+						      <td>5.596</td>
+						      <td>L</td>
+						    </tr>
+						    <tr>
+						      
+						      <td>13:13</td>
+						      <td>7.328</td>
+						      <td>H</td>
+						    </tr>
+						</tbody>
+					</table> <!--End of table-->
+				</div><!--End of wrapper-->
+			</div>
+				</div>
+				<div class="carousel-item">
+				<div class="container">
+				<h3><i>Weather Center: Malibu</i></h3>
+				<div class="left-boxs ml-2 mr-2">
+					<iframe width="100%" height="300" src="https://embed.windy.com/embed2.html?lat=33.633&lon=-118.600&zoom=9&level=surface&overlay=temp&menu=&message=&marker=&calendar=24&pressure=&type=map&location=coordinates&detail=&detailLat=33.633&detailLon=-118.600&metricWind=mph&metricTemp=%C2%B0F&radarRange=-1" frameborder="0"></iframe>
+				</div>
+				<div class="wrappers">
+					<table class="table table-left">
+						<thead class="weather-head">
+							<div class="boxess">
+								<div class="box-11">
+									<span><p class="sup-malibu">malibu</p></span>
+								</div>
+								<div class="box-22">
+							    	<img class="head-img" src="/static/images/03.png" class="sun-cloud" alt="cloudy">
+								</div>
+								<div class="box-33">
+									<p class="head-value">68<sup class="sup-text"> * F</sup><sub class="sub-text">Clear</sub></p>
+									
+								</div>
+								<div class="box-44">
+									<span><p class="sup-now">now</p></span> -->
+								</div>
+
+							</div>
+						</thead>
+						<tbody>
+							<tr>
+							    <th>Sunday</th>
+							    <td>
+							    	<img src="/static/images/03.png" class="sun-cloud" alt="cloudy">
+							    </td>
+							    <td>
+									<p>84<sup> * F</sup></p>
+							    </td>
+							    <td>
+									<p>59<sup> * F</sup></p>
+							    </td>
+
+							</tr>
+							<tr>
+							    <th>Monday</th>
+							    <td>
+							    	<img src="/static/images/02.png" class="sun-cloud" alt="cloudy">
+							    </td>
+							    <td>
+									<p>75<sup> * F</sup></p>
+							    </td>
+							    <td>
+									<p>57<sup> * F</sup></p>
+							    </td>
+
+							</tr>
+							<tr>
+							    <th>Tuesday</th>
+							    <td>
+							    	<img src="/static/images/02.png" class="sun-cloud" alt="cloudy">
+							    </td>
+							    <td>
+									<p>79<sup> * F</sup></p>
+							    </td>
+							    <td>
+									<p>59<sup> * F</sup></p>
+							    </td>
+
+							</tr>
+							<tr>
+							    <th>Wednesday</th>
+							    <td>
+							    	<img src="/static/images/02.png" class="sun-cloud" alt="cloudy">
+							    </td>
+							    <td>
+									<p>77<sup> * F</sup></p>
+							    </td>
+							    <td>
+									<p>54<sup> * F</sup></p>
+							    </td>
+
+							</tr>
+							<tr>
+							    <th>Thursday</th>
+							    <td>
+							    	<img src="/static/images/02.png" class="sun-cloud" alt="cloudy">
+							    </td>
+							    <td>
+									<p>73<sup> * F</sup></p>
+							    </td>
+							    <td>
+									<p>57<sup> * F</sup></p>
+							    </td>
+
+							</tr>
+							<tr>
+							    <th>Friday</th>
+							    <td>
+							    	<img src="/static/images/02.png" class="sun-cloud" alt="cloudy">
+							    </td>
+							    <td>
+									<p>86<sup> * F</sup></p>
+							    </td>
+							    <td>
+									<p>63<sup> * F</sup></p>
+							    </td>
+
+							</tr>
+							<tr>
+							    <th>Saturday</th>
+							    <td>
+							    	<img src="/static/images/02.png" class="sun-cloud" alt="cloudy">
+							    </td>
+							    <td>
+									<p>86<sup> * F</sup></p>
+							    </td>
+							    <td>
+									<p>63<sup> * F</sup></p>
+							    </td>
+
+							</tr>
+						</tbody>
+					</table>
+				</div><!--End of wrapper-->
+			</div>
+				</div>
+				<div class="carousel-item">
+						<div class="container">
+				<div class="card text-white mb-3">
+				<iframe src="https://feed.mikle.com/widget/v2/118558/" height="800px" width="100%" class="fw-iframe" scrolling="no" frameborder="0"></iframe>
+				</div>
+			</div>
+				</div>
+			<div class="carousel-item">
+					<div class="container">
+						<iframe src="https://feed.mikle.com/widget/v2/119280/" height="800px" width="100%" class="fw-iframe" scrolling="no" frameborder="0"></iframe>	
+					</div>
+				</div>
+				<div class="carousel-item">
+					<div class="container">
+						<iframe src="https://feed.mikle.com/widget/v2/119265/" height="802px" width="100%" class="fw-iframe" scrolling="no" frameborder="0"></iframe>
+					</div>
+				</div>
+				<div class="carousel-item">
+					<div class="container">
+					<h3><i>Comment Feed</i></h3>
+						<div class="card text-white mb-3">
+						<iframe class="card-body w-100" src="https://chat.restream.io/embed?token=befa2567-e78f-47a9-8c49-0a43224fc2ad" height="750"></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="carousel-item">
+					<div class="container">
+						<div class="card text-white mb-3">
+						<iframe src="https://feed.mikle.com/widget/v2/119065/" height="780px" width="100%" class="fw-iframe" scrolling="no" frameborder="0"></iframe>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			</div><!--End of container-->
+		</div>	<!--End of left-container-->
+
+		<div class="col-md-12 col-lg-8 right-container">
+			<div class="headline">
+				<marquee direction="scroll"><p>NWS Forecast for: 3 Miles WSW Malibu CAIssued by: National Weather Service Los Angeles/Oxnard, CALast Update: 9:13 pm PST Nov 4, 2019, Tonight: Patchy dense fog after 10pm.  Otherwise, mostly clear early, then becoming mostly cloudy, with a low around 55. West southwest wind 10 to 15 mph becoming light south  in the evening. 
+
+Tuesday: Patchy dense fog before 10am.  Otherwise, mostly cloudy, then gradually becoming sunny, with a high near 72. Light and variable wind becoming west northwest 5 to 10 mph in the afternoon. 
+
+Tuesday Night: Patchy fog after 10pm.  Otherwise, increasing clouds, with a low around 55. West northwest wind 5 to 15 mph. 
+
+Wednesday: Patchy fog before 10am.  Otherwise, mostly cloudy, then gradually becoming sunny, with a high near 70. Light and variable wind becoming west southwest 5 to 10 mph in the morning. 
+
+Wednesday Night: Patchy fog after 10pm.  Otherwise, mostly cloudy, with a low around 57. West southwest wind 5 to 10 mph becoming east southeast in the evening. 
+
+Thursday: Patchy fog before 10am.  Otherwise, mostly sunny, with a high near 69.
+
+Thursday Night: Clear, with a low around 57.
+
+Friday: Sunny, with a high near 76.
+
+Friday Night: Clear, with a low around 58.
+
+Saturday: Sunny, with a high near 76.
+
+Saturday Night: Mostly clear, with a low around 58.
+
+Sunday: Sunny, with a high near 74.
+
+Sunday Night: Mostly clear, with a low around 58.
+
+Veterans Day: Sunny, with a high near 74.
+
+</p></marquee>
+			</div>
+			<div class="section-1"></div>
+			<div class="section-2">
+				<img class="img-live-stream" alt="Live Stream Logo" src="/static/images/channel-03.png">
+				<div class="wrap">
+					<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel"  data-interval="7000">
+						<div class="carousel-inner">
+							<div class="carousel-item active">
+									<table class="table ">
+										<col span="1" class="wide">
+										<tr class="tr-table-2">
+											<th class="th-table-2">Title</th>
+											<td class="td-table-2">Malibu, CA - Calendar</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Date</th>
+											<td class="td-table-2">Mon, 04 Nov 2019 21:43:32 -0800</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Description</th>
+											<td class="td-table-2">Malibu, CA - Get the latest events</td>
+										</tr>
+									</table>
+							</div>
+							<div class="carousel-item">
+									<table class="table ">
+										<col span="1" class="wide">
+										<tr class="tr-table-2">
+											<th class="th-table-2">Title</th>
+											<td class="td-table-2">Planning Commission Regular Meeting</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Date</th>
+											<td class="td-table-2"> November 4, 2019 </td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Time</th>
+											<td class="td-table-2">06:30 PM - 11:59 PM</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Location</th>
+											<td class="td-table-2">23825 Stuart Ranch Road&lt;br&gt;Malibu, CA 90265</td>
+										</tr>
+									</table>
+							</div>
+							<div class="carousel-item">
+									<table class="table ">
+										<col span="1" class="wide">
+										<tr class="tr-table-2">
+											<th class="th-table-2">Title</th>
+											<td class="td-table-2">Special City Council Meeting</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Date</th>
+											<td class="td-table-2"> November 5, 2019 </td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Time</th>
+											<td class="td-table-2">11:00 AM - 05:00 PM</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Location</th>
+											<td class="td-table-2">23825 Stuart Ranch Road&lt;br&gt;Malibu, CA 90265</td>
+										</tr>
+									</table>
+							</div>
+							<div class="carousel-item">
+									<table class="table ">
+										<col span="1" class="wide">
+										<tr class="tr-table-2">
+											<th class="th-table-2">Title</th>
+											<td class="td-table-2">Locals Lunch: Broad Street Oyster Company</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Date</th>
+											<td class="td-table-2"> November 5, 2019 </td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Time</th>
+											<td class="td-table-2">11:30 AM - 12:30 PM</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Location</th>
+											<td class="td-table-2">23359 PCH&lt;br&gt;#3874A&lt;br&gt;Malibu, CA 90265</td>
+										</tr>
+									</table>
+							</div>
+							<div class="carousel-item">
+									<table class="table ">
+										<col span="1" class="wide">
+										<tr class="tr-table-2">
+											<th class="th-table-2">Title</th>
+											<td class="td-table-2">Malibu Smart Workshop: Firescaping</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Date</th>
+											<td class="td-table-2"> November 5, 2019 </td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Time</th>
+											<td class="td-table-2">05:30 PM - 07:30 PM</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Location</th>
+											<td class="td-table-2">23825 Stuart Ranch Road&lt;br&gt;Malibu, CA 90265</td>
+										</tr>
+									</table>
+							</div>
+							<div class="carousel-item">
+									<table class="table ">
+										<col span="1" class="wide">
+										<tr class="tr-table-2">
+											<th class="th-table-2">Title</th>
+											<td class="td-table-2">Public Safety Commission Regular Meeting</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Date</th>
+											<td class="td-table-2"> November 6, 2019 </td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Time</th>
+											<td class="td-table-2">05:00 PM - 11:59 PM</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Location</th>
+											<td class="td-table-2">23825 Stuart Ranch Road&lt;br&gt;Malibu, CA 90265</td>
+										</tr>
+									</table>
+							</div>
+							<div class="carousel-item">
+									<table class="table ">
+										<col span="1" class="wide">
+										<tr class="tr-table-2">
+											<th class="th-table-2">Title</th>
+											<td class="td-table-2">Showcase Local Author Series: Malibu Library Speaker Series </td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Date</th>
+											<td class="td-table-2"> November 6, 2019 </td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Time</th>
+											<td class="td-table-2">07:00 PM - 09:00 PM</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Location</th>
+											<td class="td-table-2">30215 Morning View Drive&lt;br&gt;Malibu, CA 90265</td>
+										</tr>
+									</table>
+							</div>
+							<div class="carousel-item">
+									<table class="table ">
+										<col span="1" class="wide">
+										<tr class="tr-table-2">
+											<th class="th-table-2">Title</th>
+											<td class="td-table-2">Theater Thursday</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Date</th>
+											<td class="td-table-2"> November 7, 2019 </td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Time</th>
+											<td class="td-table-2">11:00 AM - 03:00 PM</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Location</th>
+											<td class="td-table-2">23825 Stuart Ranch Road&lt;br&gt;Malibu, CA 90265</td>
+										</tr>
+									</table>
+							</div>
+							<div class="carousel-item">
+									<table class="table ">
+										<col span="1" class="wide">
+										<tr class="tr-table-2">
+											<th class="th-table-2">Title</th>
+											<td class="td-table-2">Conversational French</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Date</th>
+											<td class="td-table-2"> November 7, 2019 </td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Time</th>
+											<td class="td-table-2">11:00 AM - 12:00 PM</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Location</th>
+											<td class="td-table-2">23825 Stuart Ranch Road&lt;br&gt;Malibu, CA 90265</td>
+										</tr>
+									</table>
+							</div>
+							<div class="carousel-item">
+									<table class="table ">
+										<col span="1" class="wide">
+										<tr class="tr-table-2">
+											<th class="th-table-2">Title</th>
+											<td class="td-table-2">SMMUSD Board of Education Meeting</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Date</th>
+											<td class="td-table-2"> November 7, 2019 </td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Event Time</th>
+											<td class="td-table-2">06:30 PM - 11:59 PM</td>
+										</tr>
+										<tr class="tr-table-2">
+											<th class="th-table-2">Location</th>
+											<td class="td-table-2">23825 Stuart Ranch Road&lt;br&gt;Malibu, CA 90265</td>
+										</tr>
+									</table>
+							</div>
+						</div>
+						</div>
+				</div>
+			</div><!--End of section-2-->
+		</div> 	<!--End of right-container-->	
+	</div> <!--End of row-->
+
+	<div class="footer">
+		<img class="img-web-address" alt="Web-Address" height="60" src="/static/images/logo.png">
+		<div class="footline">
+			<marquee direction="scroll"><p><b>Today's:</b> Malibu, CA - Alert CenterMon, 04 Nov 2019 21:43:31 -0800Malibu, CA - Get the latest alerts |
+					 <b>Next Following Day's:</b> 
+					  PCH both westbound lanes blocked near Rambla Vista - traffic collision #malibuMon, 04 Nov 2019 15:26:34 -0800Fire and Sheriff&#39;s Depts are at the scene of a traffic collision on PCH, near Rambla Vista. Both westbound lanes are temporarily blocked. Expect delays. |
+					   PCH northbound lane closures, Winding Way to Kanan, Tue, Nov 5, 8AM-4PM #malibuMon, 04 Nov 2019 12:16:58 -0800Caltrans will alternate closing the PCH northbound #1 and #2 lanes between Winding Way &amp; Kanan Dume Rd, along with the adjacent northbound left turn lane onto Sea Lion Dr, on Tue, Nov 5, between 8AM-4PM. One northbound lane will be open at all times. |
+					    PCH NB night lane closures, Trancas Cyn to LA/Ventura County Line, Tue-Thu, Nov 5-7, 9PM-6AM #malibuSat, 02 Nov 2019 11:30:39 -0800Caltrans will resume resurfacing work on PCH with northbound night lane closures between Trancas Cyn Rd and the LA/Ventura County line on Tuesday to Thursday nights, November 5-7, from 9:00 PM to 6:00 AM. One lane will remain open at all times. |
+						 PCH northbound lane closures, Winding Way to Kanan, Tue, Nov 5, 8AM-4PM #malibuMon, 04 Nov 2019 12:16:58 -0800Caltrans will alternate closing the PCH northbound #1 and #2 lanes between Winding Way &amp; Kanan Dume Rd, along with the adjacent northbound left turn lane onto Sea Lion Dr, on Tue, Nov 5, between 8AM-4PM. One northbound lane will be open at all times. |
+						  PCH both westbound lanes blocked near Rambla Vista - traffic collision #malibuMon, 04 Nov 2019 15:26:34 -0800Fire and Sheriff&#39;s Depts are at the scene of a traffic collision on PCH, near Rambla Vista. Both westbound lanes are temporarily blocked. Expect delays. |
+						   Malibu, CA - Alert CenterMon, 04 Nov 2019 21:43:31 -0800Malibu, CA - Get the latest alerts |
+						    PCH NB night lane closures, Trancas Cyn to LA/Ventura County Line, Tue-Thu, Nov 5-7, 9PM-6AM #malibuSat, 02 Nov 2019 11:30:39 -0800Caltrans will resume resurfacing work on PCH with northbound night lane closures between Trancas Cyn Rd and the LA/Ventura County line on Tuesday to Thursday nights, November 5-7, from 9:00 PM to 6:00 AM. One lane will remain open at all times. |
+							PCH NB night lane closures, Trancas Cyn to LA/Ventura County Line, Tue-Thu, Nov 5-7, 9PM-6AM #malibuSat, 02 Nov 2019 11:30:39 -0800Caltrans will resume resurfacing work on PCH with northbound night lane closures between Trancas Cyn Rd and the LA/Ventura County line on Tuesday to Thursday nights, November 5-7, from 9:00 PM to 6:00 AM. One lane will remain open at all times. |</p>
+					 </marquee>
+		</div>
+	</div><!--End of footer-->
+
+</body>
+<script>
+var current = 0;
+
+setInterval(function() {
+  var divs = $(".roll").hide();
+  divs.eq(current).fadeIn("normal");
+  if (current < divs.length - 1)
+    current++;
+  else
+    current = 0;
+}, 1000);
+</script>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" ></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</html>
