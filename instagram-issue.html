@@ -596,7 +596,7 @@ var current = 0;
 
 setInterval(function() {
   var divs = $(".roll").hide();
-  divs.eq(current).fadeIn("normal");
+  divs.eq("current").fadeIn('normal');
   if (current < divs.length - 1)
     current++;
   else
