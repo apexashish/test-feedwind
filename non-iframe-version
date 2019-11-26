@@ -1,0 +1,79 @@
+<html>
+<head><title>Non iFrame Code </title></head>
+<body>
+<fury-page [fxLayoutGap]="gap" class="dashboard" fxLayout="column">
+
+<!-- FIRST ROW -->
+<div fxFlex="noshrink" fxLayout="column" [fxLayoutGap]="gap" fxLayout.gt-lg="row">
+<div fxLayout="column" [fxLayoutGap]="gap" [fxFlex]="col(2)" fxLayout.gt-sm="row">
+
+<div fxFlex="auto" [fxFlex.gt-sm]="col(4)">
+<div fxLayout="column" [fxLayoutGap]="gap" >
+
+<div fxFlex>
+<mat-card>
+
+<div>
+News
+</div>
+<div>
+
+Alerts text
+
+</div>
+
+</mat-card>
+</div>
+
+<div fxFlex>
+
+<div>
+<!-- start iframe version code -->
+<iframe src="https://feed.mikle.com/widget/v2/77723/" height="500" width="100%" class="fw-iframe" scrolling="no" frameborder="0"></iframe>
+<!-- end iframe version code -->
+
+<!-- start javascript version -->
+<div style="height: 500px; width: 100%;">
+
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" data-fw-param="77723/"></script> <!-- end feedwind code -->
+</div>
+
+<!-- end javascript version -->
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div fxFlex="auto" [fxFlex.gt-sm]="col(4)">
+
+<!-- start iframe version code -->
+<div>
+
+<iframe src="https://feed.mikle.com/widget/v2/77727/" height="542px" width="100%" class="fw-iframe" scrolling="no" frameborder="0"></iframe>
+
+</div>
+<!-- end iframe version code -->
+
+<!-- start javascript version -->
+<div>
+
+<!-- start feedwind code -->
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" data-fw-param="77727/"></script> <!-- end feedwind code -->
+
+</div>
+<!-- end javascript version -->
+
+</div>
+
+</div>
+
+
+</div>
+<!-- END FIRST ROW -->
+
+
+</fury-page>
+</body>
+</html>
