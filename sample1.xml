@@ -1,114 +1,74 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<rss xmlns:site="//www.instyle.com" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cat="http://s.opencalais.com/1/type/cat/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rss="http://purl.org/rss/1.0/" version="2.0" xml:base="//www.instyle.com/feeds/all/ins.rss/10">
-<channel>
-<title>InStyle</title>
-<link>//www.instyle.com/feeds/all/ins.rss/10</link>
-<description>InStyle - News Feed</description>
-<language>en</language>
-<atom:link href="//www.instyle.com/feeds/all/ins.rss" rel="self" type="application/rss+xml"/>
-<item>
-<guid isPermaLink="false">4dadc8a2-f936-419e-9318-50d3ba8f38b5</guid>
-<link>
-https://www.instyle.com/beauty/skin/ole-henriksen-vitamin-c-banana-bright-duo-sale
-</link>
-<title>
-You Can Snag This Best-Selling Brightening Vitamin C Duo for Practically Half Off
-</title>
-<author>Nell Minow</author>
-<pubDate>Tue, 28 Apr 2020 13:00:00 -0400</pubDate>
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="//www.instyle.com/feeds/all/ins.rss/10" xmlns:site="//www.instyle.com" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cat="http://s.opencalais.com/1/type/cat/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rss="http://purl.org/rss/1.0/" >
+  <channel>
+    <title>InStyle</title>
+    <link>//www.instyle.com/feeds/all/ins.rss/10</link>
+    <description>InStyle - News Feed</description>
+    <language>en</language><atom:link href="//www.instyle.com/feeds/all/ins.rss" rel="self" type="application/rss+xml"/>
+    <item>
+  <guid isPermaLink="false">36715dfe-9ef2-40ce-8591-63ce5f4a3ab6</guid>
+  <link>https://www.instyle.com/beauty/health-fitness/stylish-workout-equipment-home-gym</link>
+  <title>Stylish Workout Equipment for Your Home Gym and What to Do with It</title>
+  <author>Nell Minow</author>
+  <pubDate>Tue, 28 Apr 2020 13:30:00 -0400</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">aa75defa-4a6c-490f-b2bb-3b09413cb620</guid>
-<link>
-https://www.instyle.com/news/female-fighter-jet-pilot-new-york-city-coronavirus-michelle-curran
-</link>
-<title>
-Meet the Only Female Fighter PilotFlying Over New York City Today
-</title>
+  <guid isPermaLink="false">4dadc8a2-f936-419e-9318-50d3ba8f38b5</guid>
+  <link>https://www.instyle.com/beauty/skin/ole-henriksen-vitamin-c-banana-bright-duo-sale</link>
+  <title>You Can Snag This Best-Selling Brightening Vitamin C Duo for Practically Half Off</title>
 <author>Nell Minow</author>
-<pubDate>Tue, 28 Apr 2020 12:30:00 -0400</pubDate>
+  <pubDate>Tue, 28 Apr 2020 13:00:00 -0400</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">f631d42f-4a80-40b2-b272-4d90fd172125</guid>
-<link>https://www.instyle.com/look-of-the-day/2020-04-28</link>
-<title>Look of the Day</title>
+  <guid isPermaLink="false">f631d42f-4a80-40b2-b272-4d90fd172125</guid>
+  <link>https://www.instyle.com/look-of-the-day/2020-04-28</link>
+  <title>Look of the Day</title>
 <author>Nell Minow</author>
-<pubDate>Tue, 28 Apr 2020 12:30:00 -0400</pubDate>
+  <pubDate>Tue, 28 Apr 2020 12:30:00 -0400</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">0239c2e5-57dd-42c2-bb30-75369cf094ff</guid>
-<link>
-https://www.instyle.com/beauty/nails/how-remove-dip-powder-nails
-</link>
-<title>
-How to Remove Dip Powder Manicures at Home Without Ruining Your Nails
-</title>
-<author>Nell Minow</author>
-<pubDate>Tue, 28 Apr 2020 12:15:00 -0400</pubDate>
+  <guid isPermaLink="false">aa75defa-4a6c-490f-b2bb-3b09413cb620</guid>
+  <link>https://www.instyle.com/news/female-fighter-jet-pilot-new-york-city-coronavirus-michelle-curran</link>
+  <title>Meet the Only Female Fighter PilotFlying Over New York City Today</title>
+<author>Nell Minow</author>  <pubDate>Tue, 28 Apr 2020 12:30:00 -0400</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">68456388-2d86-4c01-b57e-3d75dd64a458</guid>
-<link>https://www.instyle.com/beauty/summer-nail-designs</link>
-<title>
-10 Nail Art Trends You're Going to See Everywhere This Summer
-</title>
-<author>Nell Minow</author>
-<pubDate>Tue, 28 Apr 2020 12:15:00 -0400</pubDate>
+  <guid isPermaLink="false">0239c2e5-57dd-42c2-bb30-75369cf094ff</guid>
+  <link>https://www.instyle.com/beauty/nails/how-remove-dip-powder-nails</link>
+  <title>How to Remove Dip Powder Manicures at Home  Without Ruining Your Nails</title>
+<author>Nell Minow</author>  <pubDate>Tue, 28 Apr 2020 12:15:00 -0400</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">c93ac118-6168-4744-bc05-51a8a91d419d</guid>
-<link>
-https://www.instyle.com/fashion/virtual-styling-sessions-benefitting-COVID-relief
-</link>
-<title>
-How to Get Wardrobe Advice From Nicole Kidman's Stylist
-</title>
-<author>Nell Minow</author>
-<pubDate>Tue, 28 Apr 2020 11:30:00 -0400</pubDate>
+  <guid isPermaLink="false">68456388-2d86-4c01-b57e-3d75dd64a458</guid>
+  <link>https://www.instyle.com/beauty/summer-nail-designs</link>
+  <title>10 Nail Art Trends You&#039;re Going to See Everywhere This Summer</title>
+<author>Nell Minow</author>  <pubDate>Tue, 28 Apr 2020 12:15:00 -0400</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">47b0f39c-46af-484b-8084-f7079051c06b</guid>
-<link>
-https://www.instyle.com/celebrity/jenny-slate-chris-evans-breakup-broke-my-brain
-</link>
-<title>
-I Will Never Understand Chris Evans and Jenny Slate's Perfect Relationship
-</title>
-<author>Nell Minow</author>
-<pubDate>Tue, 28 Apr 2020 11:00:00 -0400</pubDate>
+  <guid isPermaLink="false">c93ac118-6168-4744-bc05-51a8a91d419d</guid>
+  <link>https://www.instyle.com/fashion/virtual-styling-sessions-benefitting-COVID-relief</link>
+  <title>How to Get Wardrobe Advice From Nicole Kidman&#039;s Stylist</title>
+<author>Nell Minow</author>  <pubDate>Tue, 28 Apr 2020 11:30:00 -0400</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">c0494f30-d29d-48c0-855c-2456fdd3024a</guid>
-<link>
-https://www.instyle.com/news/kylie-jenner-twerking-bikini-carole-baskin-savage-tiktok
-</link>
-<title>
-Kylie Jenner Twerked in a Bikini to a Song About Carole Baskin Allegedly Murdering Her Husband
-</title>
-<author>Nell Minow</author>
-<pubDate>Tue, 28 Apr 2020 11:00:00 -0400</pubDate>
+  <guid isPermaLink="false">c0494f30-d29d-48c0-855c-2456fdd3024a</guid>
+  <link>https://www.instyle.com/news/kylie-jenner-twerking-bikini-carole-baskin-savage-tiktok</link>
+  <title>Kylie Jenner Twerked in a Bikini to a Song About Carole Baskin Allegedly Murdering Her Husband</title>
+<author>Nell Minow</author>  <pubDate>Tue, 28 Apr 2020 11:00:00 -0400</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">c99a2387-ee6d-4e8b-af09-aeb71d15327e</guid>
-<link>
-https://www.instyle.com/news/oprah-virtual-commencement-speech-class-2020
-</link>
-<title>
-Oprah Will Give a Commencement Speech For the Class of 2020
-</title>
-<author>Nell Minow</author>
-<pubDate>Tue, 28 Apr 2020 10:45:00 -0400</pubDate>
+  <guid isPermaLink="false">47b0f39c-46af-484b-8084-f7079051c06b</guid>
+  <link>https://www.instyle.com/celebrity/jenny-slate-chris-evans-breakup-broke-my-brain</link>
+  <title>I Will Never Understand Chris Evans and Jenny Slate&#039;s Perfect Relationship</title>
+<author>Nell Minow</author>  <pubDate>Tue, 28 Apr 2020 11:00:00 -0400</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">0c6606ac-6713-4bd4-82bd-fd8c2b1ee577</guid>
-<link>
-https://www.instyle.com/beauty/skin/jennifer-aniston-nuface-device-facelift-at-home
-</link>
-<title>
-Jennifer Anistons Go-To Skincare Tool Is the Most Affordable Way to Get a Facelift at Home
-</title>
-<author>Nell Minow</author>
-<pubDate>Tue, 28 Apr 2020 10:15:00 -0400</pubDate>
+  <guid isPermaLink="false">c99a2387-ee6d-4e8b-af09-aeb71d15327e</guid>
+  <link>https://www.instyle.com/news/oprah-virtual-commencement-speech-class-2020</link>
+  <title>Oprah Will Give a Commencement Speech For the Class of 2020</title>
+<author>Nell Minow</author>  <pubDate>Tue, 28 Apr 2020 10:45:00 -0400</pubDate>
 </item>
-</channel>
+
+  </channel>
 </rss>
